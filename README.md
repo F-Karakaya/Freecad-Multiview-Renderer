@@ -38,10 +38,7 @@ The following demo video shows:
 - Automatic camera switching (preset + random views)
 - Rendered images being saved to the output directories in real time
 
-📁 Location:
-```text
-assets/demo/FreeCAD_Multi_View_CAD_Rendering_STEP_STL.mp4
-```
+https://github.com/user-attachments/assets/6a1ad10a-3907-4ead-a3b9-002c6b8109c8
 
 > This demo reflects the **exact intended workflow** of the project.
 
@@ -162,18 +159,18 @@ Below are **representative examples** from the generated outputs.
 
 ### 🔹 STL Model (Flywheel) – Two Different Views
 
-Isometric View:
-![Flywheel Isometric](data/outputs/3d_views_Flywheel_stl/isometric.png)
+Bottom View:
+![Flywheel Bottom](data/outputs/3d_views_Flywheel_stl/bottom.png)
 
-Top View:
-![Flywheel Top](data/outputs/3d_views_Flywheel_stl/top.png)
+Random View:
+![Flywheel Random](data/outputs/3d_views_Flywheel_stl/random_view_2_axis_-0.15_-0.86_0.48_angle_106.png)
 
 ---
 
 ### 🔹 STEP Model (Violin) – Two Different Views
 
-Front View:
-![Violin Front](data/outputs/3d_views_Violin_step/front.png)
+Rear View:
+![Violin Rear](data/outputs/3d_views_Violin_step/rear.png)
 
 Random View:
 ![Violin Random](data/outputs/3d_views_Violin_step/random_view_1_axis_-0.51_0.84_0.20_angle_239.png)
